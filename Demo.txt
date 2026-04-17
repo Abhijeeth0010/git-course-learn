@@ -1,2 +1,4 @@
 Hey There, I am learning Git
 Learning Tags now
+
+Create an Avatar
